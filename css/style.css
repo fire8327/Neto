@@ -40,16 +40,12 @@ figure {
     float: left;
     margin-right: 40px;
     margin-left: 0;
-    padding: 18px;
-    border: 2px solid #e0e4e8;
 }
   
 .figure-right {
     float: right;
     margin-left: 40px;
     margin-right: 0;
-    padding: 18px;
-    border: 2px solid #e0e4e8;
 }
 
 figcaption {
