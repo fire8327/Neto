@@ -71,3 +71,7 @@ blockquote {
     font-style: italic;
     border-radius: 10px;
 }
+
+h2 {
+    float: left;
+}
